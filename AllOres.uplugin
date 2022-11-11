@@ -2,15 +2,15 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0.0",
-	"SemVersion": "1.0.0",
+	"SemVersion": "0.0.1",
 	"FriendlyName": "All Ores",
-	"Description": "This mod adds ores and Recipes.",
+	"Description": "This mod Recipes.",
 	"Category": "Modding",
 	"CreatedBy": "Skymoeba",
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
-	"SupportURL": "",
+	"SupportURL": "https://github.com/Skyamoeba/AllOres/issues",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
@@ -24,7 +24,7 @@
 		{
 			"Name": "AllOres",
 			"Enabled": true,
-			"SemVersion": "^1.0.0"
+			"SemVersion": "0.0.1"
 		}
 	]
 }

@@ -6,8 +6,8 @@
   "Form": "Solid",
   "Description": "New Alternate to Batterys as Ficsit does not waste",
   "Category": "IndustrialParts",
-  "mEnergyValue": "10000.000000",
-  "CanBeDiscarded":"True",
-  "StackSize":"BIG",
-  "ResourceSinkPoints":"465"
+  "EnergyValue": 10000.000000,
+  "CanBeDiscarded":true,
+  "StackSize":"Big",
+  "ResourceSinkPoints": 465
 }
