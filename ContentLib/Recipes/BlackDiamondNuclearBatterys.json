@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Black Diamond Nuclear Battery",
+    "Ingredients": [
+        {
+            "Item": "Desc_CompactedCoal",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_NuclearWaste",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_Battery",
+            "Amount": 2
+        },
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Battery",
+            "Amount": 3
+        }
+    ],
+    "ManufacturingDuration": 5,
+    "ProducedIn": [
+        "Build_ManufacturerMk1"
+    ],
+    "UnlockedBy": [
+        "Schematic_1-1"
+    ]
+}
