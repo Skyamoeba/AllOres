@@ -1,0 +1,27 @@
+{
+    "$comment": "Needs Balancing",
+    "Name": "Alternate: A.I Limiter",
+    "Ingredients": [
+        {
+            "Item": "Desc_IronPlate_C",
+            "Amount": 50
+        },
+        {
+            "Item": "Desc_Wire",
+            "Amount": 50
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CircuitBoardHighSpeed",
+            "Amount": 2
+        }
+    ],
+    "ManufacturingDuration": 15,
+    "ProducedIn": [
+        "Build_AssemblerMk1"
+    ],
+    "UnlockedBy": [
+        "Schematic_1-1"
+    ]
+}
